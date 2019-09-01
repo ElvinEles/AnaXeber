@@ -1,0 +1,10 @@
+.carousel-caption{
+    position: absolute;
+    top: 90%;
+    left: 7%;
+    transform: translateY(-50%);
+}
+
+.slider_caption{
+  background-color: #222627;
+}
